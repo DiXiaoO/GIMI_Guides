@@ -1,7 +1,6 @@
 Установка GIMI(3D Migoto)
 ========================
-Шаг 1.
--------------------------
+#Шаг 1.
   Скачаем GIMI с репозитория Silent.
   https://github.com/SilentNightSound/GI-Model-Importer/releases
   Есть две версии GIMI.
@@ -11,8 +10,7 @@
   Отличия версий в основном в том, что в версии для разработки есть зелёный текст и больше удобства для создания своих модов.
   Я советую скачать версию для разработки, так как она будет фигурировать в дальнейших гайдах.
 
-Шаг 2.
--------------------------
+#Шаг 2.
   Распаковываем архив в любое место.
   Смотрим содержимое архива:
   ![](https://raw.githubusercontent.com/DiXiaoO/GIMI_Guides/main/files/0/1.png)
@@ -22,8 +20,7 @@
   3DMigoto Loader.exe - Файл запуска GIMI(3D Migoto).
   d3dx.ini - Файл, содержащий конфиг и настройки GIMI(3D Migoto).
 
-Шаг 3.
--------------------------
+#Шаг 3.
   Укажите в файле d3dx.ini путь до .exe файла игры
   target = ...
   ![](https://raw.githubusercontent.com/DiXiaoO/GIMI_Guides/main/files/0/2.png)
@@ -31,8 +28,7 @@
   launch = ...
   ![](https://raw.githubusercontent.com/DiXiaoO/GIMI_Guides/main/files/0/3.png)
 
-Шаг 4.
--------------------------
+#Шаг 4.
   Проверим работу GIMI(3D Migoto) в некой аниме игре.
   Запускаем в таком порядке:
   3DMigoto Loader.exe
@@ -41,8 +37,7 @@
   Если вы устанавливали версию для разработки то у вас должен был появится зелёный текст.
   ![](https://raw.githubusercontent.com/DiXiaoO/GIMI_Guides/main/files/0/4.png)
 
-Шаг 5.
--------------------------
+#Шаг 5.
   Безумно загружаем моды!)
   Моды можно загрузить как с сайта GameBanana или с дискорда AGMG
   https://gamebanana.com/games/8552
