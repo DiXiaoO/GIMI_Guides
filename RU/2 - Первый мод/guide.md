@@ -10,9 +10,11 @@
 2. В папке создадим файл Mod.ini  
 ![](https://raw.githubusercontent.com/DiXiaoO/GIMI_Guides/main/files/2/1.png)  
 3. Откройте файл и вставьте в него следующее:  
+```
 [TextureOverrideMod]  
 hash =  
 handling = skip  
+```
 4. Обьяснение каждой строчки:  
 [TextureOverrideMod]	- Открытие блока TextureOverride  
 hash =					- Фильтрация по нужному хешу  
